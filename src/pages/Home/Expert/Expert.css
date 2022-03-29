@@ -1,0 +1,11 @@
+.expert {
+  padding: 10px;
+}
+.expert img {
+  width: 250px;
+}
+@media only screen and (max-width: 499px) {
+  .expert img {
+    width: 350px;
+  }
+}
